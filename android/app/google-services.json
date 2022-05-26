@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334706973900",
+    "project_id": "eledary-76df1",
+    "storage_bucket": "eledary-76df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334706973900:android:69ce10519b789ae32c7669",
+        "android_client_info": {
+          "package_name": "com.example.el_edary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334706973900-i6mbumsljktpvt00i3mgeuv6mcei636n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.el_edary",
+            "certificate_hash": "520946f19995d141a5a2627be9ae3fb00dd04d5d"
+          }
+        },
+        {
+          "client_id": "334706973900-s97dhr07i9octutjf2c003qg3f4bss4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcujTK02gvrmNr6m2fW4fau-I5v9Q2hd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334706973900-s97dhr07i9octutjf2c003qg3f4bss4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
